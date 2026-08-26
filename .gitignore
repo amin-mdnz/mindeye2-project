@@ -1,0 +1,6 @@
+*.pt
+*.pth
+*.ckpt
+train_logs/
+evals/
+fmri/
